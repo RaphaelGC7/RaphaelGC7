@@ -1,4 +1,4 @@
-Hello world! I am a Jr Web Developer looking for contribute to open source and be part of social proyects that can make a difference in the world, I am highly motivated to learn new things.
+Hello world! I am a Jr Web Developer looking for contribute to open source and be part of social projects that can make a difference in the world, I am highly motivated to learn new things.
 
 <!--
 **RaphaelGC7/RaphaelGC7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
